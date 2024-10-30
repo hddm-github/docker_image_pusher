@@ -62,4 +62,5 @@
 # openstackhelm/neutron
 percona:5.7
 rabbitmq:3-management
-openstackhelm/keystone
+openstackhelm/keystone:2023.2-ubuntu_jammy-20241026
+
