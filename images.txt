@@ -36,16 +36,27 @@
 # sickcodes/docker-osx
 # snowdreamtech/frps:0.60.0
 # openp2pcn/openp2p-client
-edgexfoundry/app-service-configurable:3.0.1
-hashicorp/consul:1.15.2
-edgexfoundry/core-command:3.0.0
-edgexfoundry/core-common-config-bootstrapper:3.0.0
-edgexfoundry/core-data:3.0.0
-edgexfoundry/core-metadata:3.0.0
-redis:7.0.11-alpine
-edgexfoundry/device-rest:3.0.0
-edgexfoundry/device-virtual:3.0.0
-lfedge/ekuiper:1.9.2-alpine
-edgexfoundry/support-notifications:3.0.0
-edgexfoundry/support-scheduler:3.0.0
-edgexfoundry/edgex-ui:3.0.0
+######### edgedx 3.0################
+#edgexfoundry/app-service-configurable:3.0.1
+#hashicorp/consul:1.15.2
+#edgexfoundry/core-command:3.0.0
+#edgexfoundry/core-common-config-bootstrapper:3.0.0
+#edgexfoundry/core-data:3.0.0
+#edgexfoundry/core-metadata:3.0.0
+#redis:7.0.11-alpine
+#edgexfoundry/device-rest:3.0.0
+#edgexfoundry/device-virtual:3.0.0
+#lfedge/ekuiper:1.9.2-alpine
+#edgexfoundry/support-notifications:3.0.0
+#edgexfoundry/support-scheduler:3.0.0
+#edgexfoundry/edgex-ui:3.0.0
+
+######## openstack #########
+openstackhelm/heat
+openstackhelm/mariadb
+openstackhelm/memcached
+openstackhelm/horizon
+openstackhelm/keystone
+openstackhelm/glance
+openstackhelm/nova
+openstackhelm/neutron
