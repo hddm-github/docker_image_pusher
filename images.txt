@@ -62,4 +62,4 @@
 # openstackhelm/neutron
 percona:5.7
 rabbitmq:3-management
-openstack/keystone
+openstackhelm/keystone
