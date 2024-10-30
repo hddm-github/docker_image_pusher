@@ -52,11 +52,14 @@
 #edgexfoundry/edgex-ui:3.0.0
 
 ######## openstack #########
-openstackhelm/heat
-openstackhelm/mariadb
-openstackhelm/memcached
-openstackhelm/horizon
-openstackhelm/keystone
-openstackhelm/glance
-openstackhelm/nova
-openstackhelm/neutron
+# openstackhelm/heat
+# openstackhelm/mariadb
+# openstackhelm/memcached
+# openstackhelm/horizon
+# openstackhelm/keystone
+# openstackhelm/glance
+# openstackhelm/nova
+# openstackhelm/neutron
+percona:5.7
+rabbitmq:3-management
+openstack/keystone
