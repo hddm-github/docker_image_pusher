@@ -65,6 +65,7 @@
 #openstackhelm/keystone:2023.2-ubuntu_jammy-20241026、
 # hello-world
 # docker.io/webcenter/activemq
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
-docker.io/flannel/flannel:v0.25.5
-docker.io/flannel/flannel:v0.25.5
+# docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
+# docker.io/flannel/flannel:v0.25.5
+# docker.io/flannel/flannel:v0.25.5
+alibabadragonwell/dragonwell:21-anolis
