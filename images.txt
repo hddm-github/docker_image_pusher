@@ -68,4 +68,5 @@
 # docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
 # docker.io/flannel/flannel:v0.25.5
 # docker.io/flannel/flannel:v0.25.5
-alibabadragonwell/dragonwell:21-anolis
+# alibabadragonwell/dragonwell:21-anolis
+python:3.8-slim
