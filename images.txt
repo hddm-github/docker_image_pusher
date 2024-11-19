@@ -69,4 +69,4 @@
 # docker.io/flannel/flannel:v0.25.5
 # docker.io/flannel/flannel:v0.25.5
 # alibabadragonwell/dragonwell:21-anolis
-python:3.8-slim
+--platform=linux/arm64 python:3.8-slim
