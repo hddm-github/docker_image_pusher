@@ -70,4 +70,4 @@
 # docker.io/flannel/flannel:v0.25.5
 # alibabadragonwell/dragonwell:21-anolis
 # --platform=linux/arm64 python:3.8-slim
-jc21/nginx-proxy-manager:2.12.1
+ library/mariadb:latest
