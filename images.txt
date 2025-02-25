@@ -70,5 +70,6 @@
 # docker.io/flannel/flannel:v0.25.5
 # alibabadragonwell/dragonwell:21-anolis
 # --platform=linux/arm64 python:3.8-slim
-library/mariadb:latest
-mayanghua/instock:latest
+# library/mariadb:latest
+# mayanghua/instock:latest
+onlyoffice/documentserver:8.3.0.1
