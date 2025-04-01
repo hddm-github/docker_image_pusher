@@ -74,4 +74,4 @@
 # mayanghua/instock:latest
 # onlyoffice/documentserver:8.3.0.1
 # alfg/nginx-rtmp
-bitnami/etcd
+bitnami/etcd:3.5.6
